@@ -5,7 +5,7 @@ int main()
     int a=10;
     int* aptr= &a;
     cout<<*aptr<<endl;
-    *aptr= 20;
+    *aptr= 20; // to change value of a without changing a
     cout<<a<<endl;
 return 0;
 }
