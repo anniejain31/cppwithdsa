@@ -9,3 +9,4 @@ int main()
     cout<<a<<endl;
 return 0;
 }
+// by using pointer we can access as well as modify variable
